@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "975390286557",
+    "project_id": "mobileapp-fbafd",
+    "storage_bucket": "mobileapp-fbafd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975390286557:android:ca11ffe414c502522cb134",
+        "android_client_info": {
+          "package_name": "com.mernproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975390286557-htqaog48v0i6ki0orsosgk5d626753a3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mernproject",
+            "certificate_hash": "1bc4c08513c243ef6a93d308710eaddde7028f5a"
+          }
+        },
+        {
+          "client_id": "975390286557-gkla89v25tn914n02ama5fpte4mdt028.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyMaT9LyeGq8H7QcXv7q-1hNmgERRsuDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975390286557-gkla89v25tn914n02ama5fpte4mdt028.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
